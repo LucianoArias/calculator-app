@@ -2,7 +2,7 @@
 
 App de calculadora | React + Netlify 🚀
 
-# Instalación
+# ‼️ Instalación
 
 ✔️ Clonar repositorio:
 
@@ -17,3 +17,7 @@ npm install
 ```
 
 ✔️ App funcional! 🚀💃
+
+# 🌐 Link
+
+https://benevolent-figolla-dd9820.netlify.app/
